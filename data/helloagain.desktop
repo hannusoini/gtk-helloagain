@@ -2,7 +2,7 @@
 Version=1.0
 Type=Application
 
-Name=My App
+Name=Hello Again
 Comment=Proves that we can use Vala and Gtk
 Categories=Development;Education;
 
