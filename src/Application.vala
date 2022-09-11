@@ -21,18 +21,18 @@
 };
 
 button_hello.clicked.connect (() => {
-    button_hello.label = "Hello World!";
+    button_hello.label = _("Hello World!");
     button_hello.sensitive = false;
 });
 
         var main_window = new Gtk.ApplicationWindow (this) {
             default_height =1000,
             default_width = 1000,
-            title = "Hello World"
+            title = _("Hello World")
         };
         
-// main_window.add (button_hello);
-main_window.add (label);
+main_window.add (button_hello);
+//main_window.add (label);
         main_window.show_all ();
     }
 
