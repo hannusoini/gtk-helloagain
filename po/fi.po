@@ -19,19 +19,19 @@ msgstr ""
 
 #: src/Application.vala:24
 msgid "Hello World!"
-msgstr ""
+msgstr "Terve maailma!"
 
 #: src/Application.vala:31
 msgid "Hello World"
-msgstr ""
+msgstr "Terve maailma!"
 
 #: data/helloagain.desktop.in:6
 msgid "Hello Again"
-msgstr ""
+msgstr "Terve maailma!"
 
 #: data/helloagain.desktop.in:7
 msgid "Proves that we can use Vala and Gtk"
-msgstr ""
+msgstr "Todiste etta osaamme Vala ja Gtk"
 
 #: data/helloagain.desktop.in:10
 msgid "com.github.hannusoini.gtk-helloagain"
